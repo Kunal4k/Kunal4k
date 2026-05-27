@@ -1,6 +1,6 @@
 ![MasterHead](https://camo.githubusercontent.com/311ff515df2f5680f10ef1a34d435fce917d76c1aa1edf40a261d8a297f126c8/68747470733a2f2f772e77616c6c686176656e2e63632f66756c6c2f35772f77616c6c686176656e2d35776b646d332e6a7067)
 <h1 align="center">Hi 👋, I'm Kunal Chaurasia</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer.</h3>
 <img align="right" alt="Coding" width="400" src=https://media.giphy.com/media/mmgxbjsgIyl3wi1VxK/giphy.gif?cid=790b7611xca72wgagzep8uzp4vtone7yud3zof483flr0jou&ep=v1_gifs_search&rid=giphy.gif&ct=g>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal4k&label=Profile%20views&color=0e75b6&style=flat" alt="kunal4k" /> </p>
