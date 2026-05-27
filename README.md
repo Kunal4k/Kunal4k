@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📫 How to reach me **lloyd7th011@gmail.com**
+- 📫 How to reach me **kunalchaurasia05@gmail.com**
 
-- ⚡ Fun fact **Funny boii**
+- ⚡ Fun fact **My talent is turning simple situations into full cinematic experiences in my head.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
